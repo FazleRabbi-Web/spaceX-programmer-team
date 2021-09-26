@@ -1,0 +1,23 @@
+.card-img-top{
+    width: 200px;
+    height: 251px;
+    border-radius: 10px;
+}
+.card{
+    background-color: #dfe6e9;
+    border: 3px solid rgb(255, 255, 255) !important;
+    width: 100%;
+}
+.card:hover{
+    border: 3px solid gray !important;
+}
+.invite-btn{
+    border: 0px;
+    background-color: #55efc4;
+    padding: 5px 20px;
+    margin: 0px 50px;
+    margin-bottom: 10px;
+}
+.invite-btn:hover{
+    background-color: #00b894 !important;
+}

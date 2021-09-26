@@ -1,0 +1,98 @@
+[
+  {
+    "img": "https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/242255977_3065148190428580_3788675474897643290_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=O_FgC6HX888AX83F3AN&tn=6BXKmNr1l8inc4B2&_nc_ht=scontent-sin6-4.xx&oh=008befa9eaca6ab3304355cb58392efd&oe=61741093",
+    "name": "Fazle Rabbi",
+    "job": "Web Developer",
+    "company": "Programming hero",
+    "Age": 24,
+    "salary": 5000
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-GqbDdU4zyQo/Uwjje48KzOI/AAAAAAAACG4/cblGVCdXbBY/s1600/Dennis+Ritchie.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+    "name": "Dennis Ritchie",
+    "job": "computer scientist",
+    "company": "IEEE",
+    "Age": 57,
+    "salary": 100000
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-vA6b9fnfJoI/UwjjqFOqmNI/AAAAAAAACHA/sEQMP00onaw/s1600/Bjarne+Stroustrup.jpg?ezimgfmt=rs:400x300/rscb1/ng:webp/ngcb1",
+    "name": "Bjarne Stroustrup",
+    "job": "Distinguished Research",
+    "company": "Morgan Stanley",
+    "Age": 56,
+    "salary": 195465
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-XTVhSIzm6T8/UwjlCPAeONI/AAAAAAAACIA/_VEtLp5256o/s1600/James+Gosling.jpg?ezimgfmt=rs:317x319/rscb1/ng:webp/ngcb1",
+    "name": "James Gosling",
+    "job": "computer scientist",
+    "company": "USNAE",
+    "Age": 70,
+    "salary": 54615
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-WFFYmpAjcbY/Uwjj4OJAi1I/AAAAAAAACHI/Q3IID-7Exao/s1600/Linus+Torvalds.jpeg?ezimgfmt=rs:337x399/rscb1/ng:webp/ngcb1",
+    "name": "Linus Torvalds",
+    "job": "software engineer",
+    "company": "Linux kernel",
+    "Age": 42,
+    "salary": 21545
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-F3kb76UMANk/Uwq6fhjIEuI/AAAAAAAACIY/thLBBgmOuwM/s1600/Anders+Hejlsberg.jpg?ezimgfmt=rs:292x398/rscb1/ng:webp/ngcb1",
+    "name": "Anders Hejlsberg",
+    "job": "language C#",
+    "company": "Microsoft",
+    "Age": 39,
+    "salary": 45587
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-r4Lw1v8wP3o/UwjkHcoKMcI/AAAAAAAACHQ/41SzDLQs3M0/s1600/Tim+Berners-Lee.jpg?ezimgfmt=rs:320x320/rscb1/ng:webp/ngcb1",
+    "name": "Tim Berners-Lee",
+    "job": "British computer scientist",
+    "company": "Microsoft",
+    "Age": 41,
+    "salary": 584568
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-vjmojesfTK0/UwjkPF_nLLI/AAAAAAAACHY/7cTOimc_e5g/s1600/Brian+Kernighan.jpg?ezimgfmt=rs:400x267/rscb1/ng:webp/ngcb1",
+    "name": "Brian Kernighan",
+    "job": "computer scientist",
+    "company": "BLAUCKT",
+    "Age": 45,
+    "salary": 56445
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-Zznu7fM9g30/UwjkeqBlcjI/AAAAAAAACHo/EHhf0RF-nF8/s1600/Ken+Thompson.jpg?ezimgfmt=rs:320x317/rscb1/ng:webp/ngcb1",
+    "name": "Ken Thompson",
+    "job": "operating systems",
+    "company": "Google",
+    "Age": 45,
+    "salary": 56445
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-EtgZqoZX2dE/Uwjk3qbwbBI/AAAAAAAACH4/8vJw4USybms/s1600/Guido+van+Rossum.jpg?ezimgfmt=rs:296x398/rscb1/ng:webp/ngcb1",
+    "name": "Guido van Rossum",
+    "job": "computer programmer",
+    "company": "Dropbox",
+    "Age": 35,
+    "salary": 514564
+  },
+  {
+    "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-S_87vSTDN60/UwjkX9yyl4I/AAAAAAAACHg/FImj-V0oPHE/s1600/Donald+Kuth.jpg?ezimgfmt=rs:337x399/rscb1/ng:webp/ngcb1",
+    "name": "Donald Knuth",
+    "job": "algorithms",
+    "company": "Stanford University",
+    "Age": 61,
+    "salary": 54616
+  },
+  {
+    "img": "data:image/jpeg;base64,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",
+    "name": "Sakib Hasan",
+    "job": "Web Developer",
+    "company": "Programming hero",
+    "Age": 25,
+    "salary": 51456
+  }
+]

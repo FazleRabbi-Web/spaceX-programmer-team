@@ -1,0 +1,7 @@
+.cart{
+    background-color: #00b894 !important;
+    min-height: 250px;
+    min-width: 300px;
+    border-radius: 10px;
+    position: fixed;
+}
