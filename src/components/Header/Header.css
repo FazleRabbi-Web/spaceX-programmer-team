@@ -1,19 +1,22 @@
-.header{
+.header {
     background-color: #00b894;
     margin-top: 10px;
     border-radius: 10px;
 }
-.head{
+
+.head {
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
 }
-.head img{
+
+.head img {
     width: 100px;
     border-radius: 50%;
     margin-right: 10px;
 }
-.header-title{
+
+.header-title {
     color: #2d3436;
 }

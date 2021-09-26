@@ -5,12 +5,14 @@ import './Programmer.css'
 
 const Programmer = (props) => {
     
-    
+    //using destructuring 
     const { img, name, Age, salary, company, job } = props.programmer;
+    //using fontAwesome for icon
     const sendInvite= <FontAwesomeIcon icon={faPaperPlane} />
 
     return (
         <div>
+            {/* programmer card data */}
             <div className="card col-lg-4 border-0 fw-bolder">
                 <img src={img} className="card-img-top mx-auto py-3"  alt="" />
                 <div className ="card-body text-start">
