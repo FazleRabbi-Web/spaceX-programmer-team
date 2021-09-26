@@ -17,7 +17,7 @@ const Container = () => {
         )
     },[])
 
-    const handleInviteCart = (programmer) => {
+    const handleRecruitCart = (programmer) => {
         const newRecruit = [...recruit, programmer];
         setRecruit(newRecruit);
     }
@@ -30,7 +30,7 @@ const Container = () => {
                     programmers.map(programmer => <Programmer
                     key={programmer.name}
                     programmer={programmer}
-                    handleInviteCart={handleInviteCart}
+                    handleRecruitCart={handleRecruitCart}
                     ></Programmer>)
                 }
             </div>

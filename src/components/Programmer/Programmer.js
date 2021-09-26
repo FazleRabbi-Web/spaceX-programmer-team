@@ -22,7 +22,7 @@ const Programmer = (props) => {
                 <p className ="card-text">Age: {Age}</p>
                 <p className ="card-text">Salary: ${salary}</p>
                 </div>
-                <button onClick={()=>props.handleInviteCart(props.programmer)} 
+                <button onClick={()=>props.handleRecruitCart(props.programmer)} 
                 className='invite-btn text-center fw-bold'>Send Invite {sendInvite}</button>
             </div>
         </div>
