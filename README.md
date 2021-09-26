@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# SpaceX Programmer Team
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [SpaceX](https://spacexbyfazlerabbi.netlify.app/).
 
-## Available Scripts
+## This website use for:
 
-In the project directory, you can run:
+- This is a programmer recruiting website.
+
+- You can calculate Programmer salary using this website.
+
+- You can find world best programmer using this website
 
 ### `npm start`
 
